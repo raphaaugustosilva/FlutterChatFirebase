@@ -1,0 +1,2 @@
+# Referenced at /Users/raphael.silva/Projetos/Flutter/chat_firebase/build/app/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:29
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
